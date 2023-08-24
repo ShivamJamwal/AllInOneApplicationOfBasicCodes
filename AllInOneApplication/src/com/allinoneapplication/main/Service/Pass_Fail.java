@@ -1,4 +1,4 @@
-package com.allinoneapplication.main;
+package com.allinoneapplication.main.Service;
 
 import java.util.Scanner;
 
