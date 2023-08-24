@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AllInOneApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AllInOneApplication_jar</output-path>
+    <root id="archive" name="AllInOneApplication.jar">
+      <element id="module-output" name="AllInOneApplication" />
+    </root>
+  </artifact>
+</component>
